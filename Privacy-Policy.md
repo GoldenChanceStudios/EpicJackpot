@@ -1,55 +1,95 @@
-# Privacy Policy for Golden Chance Studios Games
+# Privacy Policy - Golden Chance Studios
 
-This privacy policy describes how Golden Chance Studios ("we", "us", or "our") collects, uses, and shares information when you use our mobile games (the "Games").
+**Last Updated:** March 17, 2025
 
-## Information We Collect
+## 1. Introduction
 
-We are dedicated to safeguarding your privacy and aim to minimize data collection.
+Welcome to Epic Jackpot, developed by Golden Chance Studios. We are committed to protecting your privacy and ensuring a safe and enjoyable gaming experience. This Privacy Policy outlines how we collect, use, and protect your information when you interact with our mobile game. This policy applies to users aged 18 and over.
 
-**Information you provide directly:**
+## 2. Information We Collect
 
-* **Contact Information:** If you contact us via email (phamvantuanqt2021@gmail.com), we will store your email address and any information provided within the communication.
+We may collect the following types of information:
 
-**Automatically Collected Information:**
+* **Device Information:**
+    * Device model, operating system, and unique device identifiers (e.g., Android Advertising ID or IDFA).
+    * Information about your device's internet connection.
+* **Game Data:**
+    * Gameplay progress, scores, achievements, and interactions within our game.
+    * Information about in-app purchases.
+* **Analytics Data:**
+    * Data about how you use our game, including frequency of use and feature usage.
+    * Information about app crashes and errors.
+* **Advertising Data:**
+    * Information used for personalized advertising, including advertising IDs.
+* **Social Data (if applicable):**
+    * If you connect through social media platforms, we may collect basic profile information as permitted by your social media settings.
+* **Chat Data (if applicable):**
+    * If you use our chat feature, we may collect and store the messages you send and receive.
 
-* Depending on the game, we may automatically collect certain information such as:
-    * Device type and operating system.
-    * Game progress and usage data.
-    * Unique device identifiers (like Android ID, Advertising ID).
-    * IP address (limited collection).
-* **Third-party Service information** We utilize third party services like advertisment networks and analytics services. Those services have there own privacy policy.
+## 3. How We Use Your Information
 
-**Important Note:** We are committed to minimizing data collection. Game-specific settings and help documentation will provide explicit details if a game collects any of the "Automatically Collected Information."
+We use your information for the following purposes:
 
-## Use of Information
+* **To Provide and Improve Our Game:**
+    * To deliver and maintain our game.
+    * To personalize your gaming experience.
+    * To analyze and improve game performance and features.
+* **To Display Advertising:**
+    * To show targeted advertisements.
+    * To measure the effectiveness of our advertising campaigns.
+* **To Communicate with You:**
+    * To respond to your support requests.
+    * To send you game updates and notifications.
+* **To Enable Social Features (if applicable):**
+    * To allow you to connect and interact with other players.
+* **To Ensure Safety and Security:**
+    * To prevent fraud and protect our users.
+    * To comply with legal obligations.
 
-We use gathered data for the following objectives:
+## 4. Third-Party Services
 
-* To deliver and enhance our Games.
-* To respond to your inquiries and support requests.
-* To deliver ingame advertisments.
-* To analyze user engagement and enhance gameplay.
+We may share your information with:
 
-## Sharing of Information
+* **Third-Party Service Providers:**
+    * For analytics, advertising, and other services that help us operate our game. These providers may have access to your information only to perform specific tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+* **Advertising Partners:**
+    * To deliver targeted advertisements.
+* **Social Media Platforms (if applicable):**
+    * If you choose to connect your social media account to our game.
+* **Legal Authorities:**
+    * When required by law or to protect our rights.
 
-We will not share your personal information with external parties except in these circumstances:
+## 5. Simulated Gambling Disclaimer
 
-* With your express consent.
-* As required by legal obligations.
-* with third-party advertising and analytics platforms.
+Please note that Epic Jackpot is a simulated casino game. No real money gambling is involved, and there is no opportunity to win real money or prizes.
 
-## Children's Privacy
+## 6. Data Security
 
-Our Games may be enjoyed by a broad audience. However, we do not knowingly collect personal information from children under 13 years of age. If you are a parent or guardian and believe your child has shared personal information with us, please contact us promptly at the provided email.
+We implement reasonable security measures to protect your information from unauthorized access, use, or disclosure. These measures include encryption, firewalls, and secure server facilities. However, please be aware that no method of transmission over the internet or electronic storage is completely secure, and we cannot guarantee absolute security.
 
-## Changes to This Privacy Policy
+## 7. Children’s Privacy
 
-We may update this Privacy Policy periodically. We will inform you of changes by posting the revised Privacy Policy on this page. Updates are effective immediately upon posting.
+Our game is intended for users aged 18 and over. We do not knowingly collect personal information from individuals under the age of 18. If you are a parent or guardian and believe that your child has provided us with personal information, please contact us immediately, and we will take steps to delete such information.
 
-## Contact Us
+## 8. Your Rights
 
-If you have questions or concerns about this Privacy Policy, please contact us at:
+You may have certain rights regarding your personal information, depending on your jurisdiction. These rights may include:
 
-phamvantuanqt2021@gmail.com
+* **Access and Correction:** You may have the right to request access to and correction of your personal information.
+* **Opt-Out of Targeted Advertising:** You can limit ad tracking through your device settings.
+* **Data Deletion:** You may have the right to request the deletion of your personal data, subject to certain exceptions.
+* **Withdraw Consent:** If we are processing your personal information based on your consent, you may have the right to withdraw your consent at any time.
 
----
+To exercise these rights, please contact us using the information provided in the "Contact Us" section below.
+
+## 9. Changes to Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect changes in our practices or legal requirements. We will notify you of any material changes by posting the updated policy within the game or through other reasonable means. Your continued use of the game after the effective date of the revised Privacy Policy constitutes your acceptance of the changes.
+
+## 10. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at:
+
+* Email: phamvantuanqt2021@gmail.com
+
+Thank you for playing Epic Jackpot!
